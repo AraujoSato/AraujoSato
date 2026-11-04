@@ -80,22 +80,11 @@ Construir uma carreira na área de tecnologia e dados, evoluindo continuamente e
 
 </div>
 
-
 ## 🎮 Pac-Man Contribution Graph
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/AraujoSato/AraujoSato/output/pacman-contribution-graph-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/AraujoSato/AraujoSato/output/pacman-contribution-graph.svg"
-    />
-    <img
-      alt="Pac-Man Contribution Graph"
-      src="https://raw.githubusercontent.com/AraujoSato/AraujoSato/output/pacman-contribution-graph.svg"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/AraujoSato/AraujoSato/output/pacman-contribution-graph-dark.svg"
+    alt="Pac-Man Contribution Graph"
+  />
 </p>
