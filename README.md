@@ -35,15 +35,15 @@ Meu objetivo é evoluir profissionalmente na área, construindo projetos que con
 
 ## 📂 Projetos em destaque
 
-### 📊 Dashboard de Análise de Erros
+### 📊 Dashboard de Análise de Erros (Em produção)
 
-Projeto desenvolvido com Excel e Power BI para monitoramento de ocorrências, identificação de causas e análise de indicadores.
+Projeto desenvolvido com Excel e Power BI para monitoramento de ocorrências, identificação de causas e análise de indicadores em ambiente laboratório hospitalar.
 
 **Ferramentas:** Excel | Power BI | Análise de Dados
 
-### ⚙️ Automação de Relatórios de Estágio
+### ⚙️ Automação de Relatórios de Estágio (Em Produção)
 
-Projeto de melhoria de processo administrativo, com foco na automatização do tratamento de relatórios mensais e geração de listas de inclusão e exclusão de seguro.
+Projeto de melhoria de processo administrativo, com foco na automatização do tratamento de relatórios mensais e geração de listas de inclusão e exclusão de seguros de vida.
 
 **Foco:** Automação | Tratamento de Dados | Eficiência Operacional
 
