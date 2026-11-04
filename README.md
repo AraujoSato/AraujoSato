@@ -66,9 +66,19 @@ Construir uma carreira na área de tecnologia e dados, evoluindo continuamente e
 
 ---
 
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AraujoSato/AraujoSato/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AraujoSato/AraujoSato/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AraujoSato/AraujoSato/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
 ## 🤝 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/marcos-paulo-de-ara%C3%BAjo-sato-b45a75411/])
 
 ---
 
