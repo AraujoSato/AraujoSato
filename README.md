@@ -68,7 +68,8 @@ Construir uma carreira na área de tecnologia e dados, evoluindo continuamente e
 
 ## 🤝 Vamos nos conectar?
 
-[![LinkedIn]([https://www.linkedin.com/in/marcos-paulo-de-ara%C3%BAjo-sato-b45a75411/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-paulo-de-araujo-sato-b45a75411/)
+
 
 ---
 
