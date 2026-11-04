@@ -79,6 +79,8 @@ Construir uma carreira na área de tecnologia e dados, evoluindo continuamente e
 
 **Sempre aprendendo, sempre evoluindo.** 🚀
 
+---
+
 </div>
 
 <p align="center">
