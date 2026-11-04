@@ -93,4 +93,4 @@ Construir uma carreira na área de tecnologia e dados, evoluindo continuamente e
 
 ## 🎮 Pac-Man Contribution Graph
 
-![Pac-Man](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg)
+![Pac-Man](https://raw.githubusercontent.com/AraujoSato/AraujoSato/output/pacman-contribution-graph.svg)
